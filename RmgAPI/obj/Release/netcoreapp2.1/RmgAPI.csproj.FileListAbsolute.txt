@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\RmgAPI.deps.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\RmgAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\RmgAPI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\RmgAPI.dll
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\bin\Release\netcoreapp2.1\RmgAPI.pdb
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.dll
+C:\Users\Administrator\source\repos\Rmg\RmgAPI\obj\Release\netcoreapp2.1\RmgAPI.pdb
